@@ -3,15 +3,19 @@
     height: 500px;
     background-color: lightgray;
     position: absolute;
-    margin-left: 230px;
+    margin-left: 65px;
     margin-top: 47px;
+    border: 1px solid black
+    
+    ;
 }
 
 .left {
     width: 327px;
     height: 210px;
     border: 1px solid lightgray;
-    margin-left: 300;
+    position: absolute;
+    margin-left: 400;
     font-family: 'Freight Sans Bold', Helvetica, Arial, sans-serif;
     text-align: center;
     background-color: white;
@@ -23,7 +27,7 @@
     border: 1px solid lightgray;
     position: absolute;
     margin-left: 340px;
-    margin-top: -212px;
+    margin-top: 0px;
     background-color: white;
 }
 
