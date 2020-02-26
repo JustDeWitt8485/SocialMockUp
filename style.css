@@ -1,5 +1,6 @@
 body {
     background-color: lightgray;
+    font-family:  'Freight Sans Bold', Helvetica, Arial, sans-serif;;
 }
 
 #banner {
@@ -30,11 +31,13 @@ header {
     background-color: white;
     position: absolute;
     margin-top: 350px;
-}
+    }
 
-#toolbar {
-    margin-left: 300px;
-}
+.toolbar {
+    margin-left: 230px;
+    font-size: 20px;
+    border-right:1px solid lightgray;
+    }
 
 #greet{
 position: absolute;
@@ -45,7 +48,8 @@ color: white;
 
 
 .buttons {
-position: absolute;
-margin-left: 450px;
+position: relative;
+margin-left: 440px;
 margin-top: -70px;
 }
+
