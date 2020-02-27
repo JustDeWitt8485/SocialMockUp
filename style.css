@@ -1,3 +1,5 @@
+
+
 body {
     background-color: lightgray;
     font-family:  'Freight Sans Bold', Helvetica, Arial, sans-serif;;
@@ -52,4 +54,39 @@ position: relative;
 margin-left: 440px;
 margin-top: -70px;
 }
+
+ul {
+list-style-type: none;
+margin: 0;
+margin-left: 185px;
+padding: 0;
+}
+
+ul li {
+    float: left;
+    display: block;
+    padding: 12px;
+    margin-left:10px ;
+    font-size: 20px;
+    
+}
+
+a {
+   display: block;
+   padding: 8px;
+   color: black;
+   
+}
+
+li a {
+    border-right: 1px solid lightgray;
+    text-decoration: none;
+}
+
+li a:hover{
+
+    color:#4267B2; ;
+}
+
+
 

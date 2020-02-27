@@ -1,30 +1,32 @@
+
+
 .layout {
     width: 850px;
     height: 500px;
     background-color: lightgray;
-    position: absolute;
-    margin-left: 231px;
+    margin: 0 auto;
     margin-top: 47px;
+    
     
 }
 
 .left {
-    width: 327px;
+    width: 326px;
     height: 210px;
     border: 1px solid lightgray;
     position: absolute;
-    margin-left: 400;
+    margin-left: auto;
     font-family: 'Freight Sans Bold', Helvetica, Arial, sans-serif;
     text-align: center;
     background-color: white;
 }
 
 .right {
-    width: 511px;
+    width: 510px;
     height: 300px;
     border: 1px solid lightgray;
     position: absolute;
-    margin-left: 340px;
+    margin-left: 338px;
     margin-top: 0px;
     background-color: white;
 }
@@ -51,7 +53,7 @@ p {
     background-color: #4267B2;
     position: absolute;
     margin-left: 15px;
-    margin-top: 3px;
+    margin-top: 15px;
 }
 
 #bgbox {
